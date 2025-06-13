@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Vinicius Andrade
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvimento Web | Analise de Dados em Python`**
 
 Me chamo Vinicius Andrade, tenho 23 anos. Iniciei faculdade de Análise e Desenvolvimento de Sistemas na FIAP em Fevereiro de 2025.
 
